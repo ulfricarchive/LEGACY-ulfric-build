@@ -18,7 +18,7 @@
 		<module>verify</module>
 		<module>test-assist</module>
 		<module>commons</module>
-		<module>commons-cdi</module>
+		<module>dragoon</module>
 		<module>commons-locale</module>
 		<module>ulfric-parent-spigot</module>
 		<module>commons-spigot-testing</module>
